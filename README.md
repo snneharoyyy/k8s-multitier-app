@@ -1,3 +1,5 @@
+![Screenshot](./screenshot.png)
+
 # ☸️ Kubernetes Multi-Tier App on Minikube
 
 This project deploys a static frontend and Node.js backend using Kubernetes on Minikube.
